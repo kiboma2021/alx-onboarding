@@ -1,0 +1,12 @@
+Initialise empty LIST
+Prompt user for input
+WHILE INPUT is not blank:
+	Append the input to the list
+	Prompt user for input
+LOOP
+
+For each value in the list subtract Mean and square the result. Then get the  sum
+
+	SS= ∑(Xi−X)2
+
+	RETURN SS
